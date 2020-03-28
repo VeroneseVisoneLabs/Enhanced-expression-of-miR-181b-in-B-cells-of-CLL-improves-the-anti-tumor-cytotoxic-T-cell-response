@@ -1,0 +1,52 @@
+SDS 2.4	AQ Results	1.0
+Filename	mec il ritorno 16.9.13
+PlateID	
+Assay Type	Absolute Quantification
+Run DateTime	9/16/13 12:04:05 PM
+Operator	
+ThermalCycleParams	
+
+Sample Information
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+10	A10	181b	FAM	Unknown	27.612043									Manual Ct		Automatic			Manual	0.2													
+11	A11	181b	FAM	Unknown	28.357035									Manual Ct		Automatic			Manual	0.2													
+12	A12	181b	FAM	Unknown	29.472357									Manual Ct		Automatic			Manual	0.2													
+22	B10	181b	FAM	Unknown	27.681593									Manual Ct		Automatic			Manual	0.2													
+23	B11	181b	FAM	Unknown	28.299723									Manual Ct		Automatic			Manual	0.2													
+24	B12	181b	FAM	Unknown	28.910637									Manual Ct		Automatic			Manual	0.2													
+34	C10	181b	FAM	Unknown	27.809942									Manual Ct		Automatic			Manual	0.2													
+35	C11	181b	FAM	Unknown	28.251879									Manual Ct		Automatic			Manual	0.2													
+36	C12	181b	FAM	Unknown	28.892096									Manual Ct		Automatic			Manual	0.2													
+85	H1	181b	FAM	Unknown	28.23662									Manual Ct		Automatic			Manual	0.2													
+86	H2	181b	FAM	Unknown	28.425493									Manual Ct		Automatic			Manual	0.2													
+87	H3	181b	FAM	Unknown	28.559032									Manual Ct		Automatic			Manual	0.2													
+94	H10	181b	FAM	Unknown	Undetermined									Manual Ct		Automatic			Manual	0.2						true			true				
+95	H11	181b	FAM	Unknown	Undetermined									Manual Ct		Automatic			Manual	0.2						true			true				
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+46	D10	U44	FAM	Unknown	23.208944									Manual Ct		Automatic			Manual	0.2													
+47	D11	U44	FAM	Unknown	22.825916									Manual Ct		Automatic			Manual	0.2													
+48	D12	U44	FAM	Unknown	24.254148									Manual Ct		Automatic			Manual	0.2													
+58	E10	U44	FAM	Unknown	23.162975									Manual Ct		Automatic			Manual	0.2													
+59	E11	U44	FAM	Unknown	22.732317									Manual Ct		Automatic			Manual	0.2													
+60	E12	U44	FAM	Unknown	23.98654									Manual Ct		Automatic			Manual	0.2													
+70	F10	U44	FAM	Unknown	23.09308									Manual Ct		Automatic			Manual	0.2													
+71	F11	U44	FAM	Unknown	22.756525									Manual Ct		Automatic			Manual	0.2													
+72	F12	U44	FAM	Unknown	23.698177									Manual Ct		Automatic			Manual	0.2													
+88	H4	U44	FAM	Unknown	22.983883									Manual Ct		Automatic			Manual	0.2													
+89	H5	U44	FAM	Unknown	22.906431									Manual Ct		Automatic			Manual	0.2													
+90	H6	U44	FAM	Unknown	23.167381									Manual Ct		Automatic			Manual	0.2													
+91	H7	U44	FAM	Unknown	Undetermined									Manual Ct		Automatic			Manual	0.2						true			true				
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+
+NAP	LPL
+	
